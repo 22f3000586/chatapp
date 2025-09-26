@@ -59,7 +59,6 @@ This is a full-stack chat application built with the **MERN** stack (MongoDB, Ex
 
 ### Project Structure
 
-(Since I don't have the file structure, this is a placeholder. You can fill this in.)
 - **`backend/`**: Contains the server-side code.
 - **`frontend/`**: Contains the React application.
 - **`server.js`**: The main entry point for the backend.
